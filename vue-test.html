@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>Laurel Schwulst</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" type="text/css" href="css/style.css">
+</head>
+
+<body>
+
+                <table id="writing-table">
+                   <thead>
+                        <tr>
+                            <th>Title</th>
+                            <th>Published</th>
+                            <th>Date</th>
+                            <th>Keywords</th>
+                        </tr>
+                    </thead>
+                    
+                    <tr class="writing" v-for="record in records" v-bind:class="writingClasses(record)" >
+                        
+                          <td>
+                            {{ record.fields['Title'] }}
+                          </td>
+                          <td>
+                            <a v-bind:href="record.fields['Published Link']" target="_blank">
+                                {{ record.fields['Published'] }}
+                            </a>
+                          </td>
+                          <td>
+                            {{ record.fields['Date'] }}
+                          </td>
+                          <td>
+                            {{ record.fields['Keywords'] }}
+                          </td>
+
+                    </tr>
+              
+                  </table>
+
+            </section>
+    
+    <script src="js/vue.min.js"></script>
+
+    <script>
+    
+    /* airtable vue */
+
+    Vue.config.devtools = true;
+
+    var apiURL = "https://api.airtable.com/v0/appnD2JiuutoWV9R0/Writing?api_key=keyCZaOeYEDwQl6C6";
+    app = new Vue({
+      el: '#writing-table',
+      data: {
+        records: null,
+        timer: null
+      },
+      created: function () {
+        this.fetchData();
+      },
+      beforeDestroy: function() {
+        clearInterval(this.timer)
+      },
+      methods: {
+        writingClasses: function(record) {
+          return {
+          }
+        },
+        fetchData: function () {
+          var xhr = new XMLHttpRequest()
+          var self = this
+          xhr.open('GET', apiURL)
+          xhr.onload = function () {
+            self.records = JSON.parse(xhr.responseText).records
+            console.log("Fetched data.");
+          }
+          xhr.send()
+        }
+      }
+    })
+
+    </script>
+
+</body>
+
+</html>
