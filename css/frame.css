@@ -1,0 +1,70 @@
+body {
+  margin: 0;
+  overflow: hidden;
+}
+
+a {
+  display: block;
+  float: left;
+  margin: 0;
+  width: 16px;
+  height: 16px;
+}
+
+a img {
+  width: 16px;
+  height: 16px;
+}
+
+iframe {
+  border: 0;
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  z-index: -1;
+  width: 1px;
+  min-width: 100%;
+  *width: 100%;
+}
+
+#home {
+  position: absolute;
+  top: 0;
+  right: 0;
+  width: 16px;
+}
+
+a.laurel {
+  background: forestgreen;
+  height: 16px;
+  width: 16px;
+  display: block;
+}
+
+#center {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  /* bottom: 0; */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 3;
+  pointer-events: none;
+}
+
+#center-square {
+  height: 16px;
+  width: 16px;
+  background: transparent;
+  /* border: 1px solid rgba(0, 0, 0, 0.01); */
+  display: inline-block;
+  pointer-events: all;
+}

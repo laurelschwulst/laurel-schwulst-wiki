@@ -1,0 +1,715 @@
+[
+  {
+    "url": "http://elliott.computer",
+    "icon": "elliott.png",
+    "color": ""
+  },
+  {
+    "url": "http://www.adrianaramic.com",
+    "icon": "adriana.gif",
+    "color": ""
+  },
+  {
+    "url": "http://www.subpixel.space",
+    "icon": "",
+    "color": "#21226B"
+  },
+  {
+    "url": "http://cdxs.ist",
+    "icon": "becca.png",
+    "color": ""
+  },
+  {
+    "url": "http://npanzer.com",
+    "icon": "natalia.ico",
+    "color": ""
+  },
+  {
+    "url": "https://harmvandendorpel.com",
+    "icon": "harm.png",
+    "color": ""
+  },
+  {
+    "url": "http://brycewilner.com",
+    "icon": "bryce.ico",
+    "color": ""
+  },
+  {
+    "url": "http://tamarashopsin.com",
+    "icon": "",
+    "color": "#FAEE4A"
+  },
+  {
+    "url": "https://www.damonzucconi.com",
+    "icon": "damon.ico",
+    "color": ""
+  },
+  {
+    "url": "http://www.priscillajeong.com",
+    "icon": "",
+    "color": "#00cc00"
+  },
+  {
+    "url": "http://weiyi.li",
+    "icon": "",
+    "color": "#CBCBCB"
+  },
+  {
+    "url": "http://www.tophtucker.com",
+    "icon": "",
+    "color": "blue"
+  },
+  {
+    "url": "http://www.danielbrewster.com",
+    "icon": "dan.ico",
+    "color": ""
+  },
+  {
+    "url": "http://stephdavidson.com",
+    "icon": "",
+    "color": "#CA4460"
+  },
+  {
+    "url": "http://saramagenheimer.com",
+    "icon": "",
+    "color": "#75A0DF"
+  },
+  {
+    "url": "http://laurenfrancescone.com",
+    "icon": "",
+    "color": "#ABA235"
+  },
+  {
+    "url": "http://jollo.org/LNT/home/fanfare",
+    "icon": "",
+    "color": "#AFBEA9"
+  },
+  {
+    "url": "http://mindyseu.com",
+    "icon": "mindy.png",
+    "color": ""
+  },
+  {
+    "url": "http://dinakelberman.com",
+    "icon": "",
+    "color": "red"
+  },
+  {
+    "url": "http://brandonwilner.site",
+    "icon": "brandon.png",
+    "color": ""
+  },
+  {
+    "url": "https://mel-nguyen.com",
+    "icon": "",
+    "color": "#CA4137"
+  },
+  {
+    "url": "https://mfowler.info",
+    "icon": "",
+    "color": "#9666F9"
+  },
+  {
+    "url": "http://christianoldham.com",
+    "icon": "",
+    "color": "#DAA73E"
+  },
+  {
+    "url": "http://www.19933.biz",
+    "icon": "",
+    "color": "white"
+  },
+  {
+    "url": "http://shirazn.es",
+    "icon": "shiraz.png",
+    "color": ""
+  },
+  {
+    "url": "https://rkuo.net",
+    "icon": "ryan.ico",
+    "color": ""
+  },
+  {
+    "url": "http://www.jasonfulford.com",
+    "icon": "",
+    "color": "#E7E5AF"
+  },
+  {
+    "url": "https://melanie-hoff.com",
+    "icon": "",
+    "color": "#354BF7"
+  },
+  {
+    "url": "http://dantaeyoung.com",
+    "icon": "",
+    "color": "#D4ECBD"
+  },
+  {
+    "url": "https://www.kaelanoel.com",
+    "icon": "kaela.jpg",
+    "color": ""
+  },
+  {
+    "url": "http://mark-beasley.com",
+    "icon": "",
+    "color": "#E6BEC6"
+  },
+  {
+    "url": "http://taichi.pink",
+    "icon": "",
+    "color": "#F5F5DC"
+  },
+  {
+    "url": "https://caseyagollan.com",
+    "icon": "casey.png",
+    "color": ""
+  },
+  {
+    "url": "https://edouard.us",
+    "icon": "edouard.ico",
+    "color": ""
+  },
+  {
+    "url": "https://www.stephaniekwak.com",
+    "icon": "stephanie.ico",
+    "color": ""
+  },
+  {
+    "url": "http://aarati.me",
+    "icon": "aarati.ico",
+    "color": ""
+  },
+  {
+    "url": "http://www.possiblebitmaps.com",
+    "icon": "travis.ico",
+    "color": ""
+  },
+  {
+    "url": "http://megmiller.world",
+    "icon": "",
+    "color": "#EDF2E2"
+  },
+  {
+    "url": "http://sydneyshen.info",
+    "icon": "",
+    "color": "#531B1E"
+  },
+  {
+    "url": "http://taeyoonchoi.com",
+    "icon": "",
+    "color": "#B18F75"
+  },
+  {
+    "url": "http://left.gallery",
+    "icon": "left.png",
+    "color": ""
+  },
+  {
+    "url": "http://linkedbyair.net",
+    "icon": "linked.png",
+    "color": ""
+  },
+  {
+    "url": "http://o-r-g.com",
+    "icon": "",
+    "color": "white"
+  },
+  {
+    "url": "http://linkedbyair.net/t/",
+    "icon": "",
+    "color": "#5A4C2F",
+    "borderradius": "50%"
+  },
+  {
+    "url": "http://vg.pe.hu/jp",
+    "icon": "",
+    "color": "#A4A4A4"
+  },
+  {
+    "url": "https://lrsphm.github.io/poem-club",
+    "icon": "",
+    "color": "#6A748A"
+  },
+  {
+    "url": "http://night.house",
+    "icon": "",
+    "color": "#9055F9"
+  },
+  {
+    "url": "https://coolguy.website",
+    "icon": "",
+    "color": "#F8EFF4"
+  },
+  {
+    "url": "https://bellkiosk.site",
+    "icon": "bell.png",
+    "color": ""
+  },
+  {
+    "url": "https://tombubul.info",
+    "icon": "tom.ico",
+    "color": ""
+  },
+  {
+    "url": "https://minguhongmfg.com",
+    "icon": "",
+    "color": "#638E25"
+  },
+  {
+    "url": "https://callil.com",
+    "icon": "",
+    "color": "#ccc"
+  },
+  {
+    "url": "http://www.allmyfriendsatonce.com",
+    "icon": "",
+    "color": "#A99897",
+    "borderradius": "46%"
+  },
+  {
+    "url": "http://rhizome.org",
+    "icon": "rhizome.png",
+    "color": ""
+  },
+  {
+    "url": "http://www.travesssmalley.com",
+    "icon": "",
+    "color": "#5C855A"
+  },
+  {
+    "url": "http://www.decontextualize.com",
+    "icon": "",
+    "color": "#0053b8"
+  },
+  {
+    "url": "http://art.teleportacia.org",
+    "icon": "",
+    "color": "#5E78C7"
+  },
+  {
+    "url": "https://www.ribbonfarm.com",
+    "icon": "ribbon.png",
+    "color": ""
+  },
+  {
+    "url": "http://www.oritgat.com",
+    "icon": "",
+    "color": "#D8F9CD"
+  },
+  {
+    "url": "http://www.sulki-min.com",
+    "icon": "sulki-min.gif",
+    "color": ""
+  },
+  {
+    "url": "http://www.textfiles.com",
+    "icon": "text.ico",
+    "color": ""
+  },
+  {
+    "url": "http://joelssanddispensary.com",
+    "icon": "",
+    "color": "#7D9BD7"
+  },
+  {
+    "url": "https://tree-map.nycgovparks.org",
+    "icon": "parks.png",
+    "color": ""
+  },
+  {
+    "url": "http://artype.de/Sammlung",
+    "icon": "sammlung.ico",
+    "color": ""
+  },
+  {
+    "url": "http://www.sawakonakayasu.net",
+    "icon": "",
+    "color": "#AA8531"
+  },
+  {
+    "url": "https://billwurtz.com",
+    "icon": "",
+    "color": "black"
+  },
+  {
+    "url": "http://www.musanim.com",
+    "icon": "musanim.ico",
+    "color": ""
+  },
+  {
+    "url": "http://gossipsweb.net",
+    "icon": "",
+    "color": "#738B60"
+  },
+  {
+    "url": "http://thecreativeindependent.com",
+    "icon": "tci.png",
+    "color": ""
+  },
+  {
+    "url": "http://mmmo.info",
+    "icon": "morgan.ico",
+    "color": ""
+  },
+  {
+    "url": "http://samdavis.us",
+    "icon": "sam.png",
+    "color": ""
+  },
+  {
+    "url": "https://hxrts.com",
+    "icon": "sam-h.ico",
+    "color": ""
+  },
+  {
+    "url": "http://joshminkus.com",
+    "icon": "josh.ico",
+    "color": ""
+  },
+  {
+    "url": "http://erinjanenelson.com",
+    "icon": "",
+    "color": "#C9D849"
+  },
+  {
+    "url": "http://www.sashaportis.com",
+    "icon": "",
+    "color": "#0C0C0C"
+  },
+  {
+    "url": "http://talking-digital.net",
+    "icon": "talking.png",
+    "color": ""
+  },
+  {
+    "url": "http://www.yhsong.com",
+    "icon": "",
+    "color": "#8E9899"
+  },
+  {
+    "url": "http://www.michaelsavona.com",
+    "icon": "",
+    "color": "darkolivegreen"
+  },
+  {
+    "url": "http://christoph-knoth.com",
+    "icon": "",
+    "color": "purple"
+  },
+  {
+    "url": "http://lauriespiegel.net/ls",
+    "icon": "laurie.ico",
+    "color": ""
+  },
+  {
+    "url": "http://www.klaimco.com",
+    "icon": "klaimco.ico",
+    "color": ""
+  },
+  {
+    "url": "http://michellelin.co",
+    "icon": "michelle.ico",
+    "color": ""
+  },
+  {
+    "url": "https://www.jon-kyle.com",
+    "icon": "jon-kyle.ico",
+    "color": ""
+  },
+  {
+    "url": "https://michaelguidetti.info",
+    "icon": "",
+    "color": "black"
+  },
+  {
+    "url": "http://lynnnn.com",
+    "icon": "",
+    "color": "white"
+  },
+  {
+    "url": "https://www.jenslekman.com",
+    "icon": "",
+    "color": "rgb(255, 153, 102)"
+  },
+  {
+    "url": "http://aaron-graham.com",
+    "icon": "aaron.ico",
+    "color": ""
+  },
+  {
+    "url": "http://marimo-web.org/en",
+    "icon": "marimo.png",
+    "color": "",
+    "borderradius": "50%"
+  },
+  {
+    "url": "http://annelaplantine.free.fr",
+    "icon": "anne.ico",
+    "color": ""
+  },
+  {
+    "url": "http://www.ritsumei.ac.jp/~akitaoka/index-e.html",
+    "icon": "akiyoshi.ico",
+    "color": ""
+  },
+  {
+    "url": "https://www.markertext.com",
+    "icon": "chris.ico",
+    "color": ""
+  },
+  {
+    "url": "http://www.reticular.info",
+    "icon": "",
+    "color": "pink"
+  },
+  {
+    "url": "http://www.pgbovine.net",
+    "icon": "philip.ico",
+    "color": ""
+  },
+  {
+    "url": "http://www.pamelafox.org",
+    "icon": "",
+    "color": "#ACE938"
+  },
+  {
+    "url": "https://nickm.com",
+    "icon": "nick.ico",
+    "color": ""
+  },
+  {
+    "url": "http://vg.pe.hu",
+    "icon": "",
+    "color": "#CBCBCB"
+  },
+  {
+    "url": "https://superflex.net",
+    "icon": "",
+    "color": "#CF6339"
+  },
+  {
+    "url": "http://websafe2k16.com",
+    "icon": "",
+    "color": "#363636"
+  },
+  {
+    "url": "http://npanzer.com/refreshgallery.html",
+    "icon": "",
+    "color": "brown"
+  },
+  {
+    "url": "https://www.are.na/blog",
+    "icon": "arena.ico",
+    "color": ""
+  },
+  {
+    "url": "http://emptyday.today",
+    "icon": "empty-day.png",
+    "color": ""
+  },
+  {
+    "url": "https://www.brainpickings.org",
+    "icon": "brain.ico",
+    "color": ""
+  },
+  {
+    "url": "http://infoandupdates.com",
+    "icon": "",
+    "color": "#E5B9A1"
+  },
+  {
+    "url": "https://www-cs-faculty.stanford.edu/~knuth",
+    "icon": "",
+    "color": "#F7F4E6"
+  },
+  {
+    "url": "http://www.gardendigest.com",
+    "icon": "garden.ico",
+    "color": ""
+  },
+  {
+    "url": "http://www.aaronsw.com",
+    "icon": "",
+    "color": "#FEFDDE"
+  },
+  {
+    "url": "http://www.enjoy.ne.jp/~hito/index.htm",
+    "icon": "",
+    "color": "#C1F6AE"
+  },
+  {
+    "url": "http://www.lcdf.org/~eddietwo",
+    "icon": "",
+    "color": "#C9F8C4"
+  },
+  {
+    "url": "https://manuelraeder.com",
+    "icon": "manuel.ico",
+    "color": ""
+  },
+  {
+    "url": "http://www.williamlamson.com",
+    "icon": "",
+    "color": "white"
+  },
+  {
+    "url": "http://www.taubaauerbach.com",
+    "icon": "",
+    "color": "#C9845A"
+  },
+  {
+    "url": "http://www.airdeparis.com",
+    "icon": "",
+    "color": "white"
+  },
+  {
+    "url": "http://www.natalieczech.de",
+    "icon": "",
+    "color": "cyan"
+  },
+  {
+    "url": "http://www.ninakatchadourian.com",
+    "icon": "",
+    "color": "#A1C735"
+  },
+  {
+    "url": "https://badlandsunlimited.com",
+    "icon": "",
+    "color": "#F3E748"
+  },
+  {
+    "url": "http://www.heikejung.de",
+    "icon": "",
+    "color": "#78B1A9"
+  },
+  {
+    "url": "https://www.alicjakwade.com",
+    "icon": "",
+    "color": "white"
+  },
+  {
+    "url": "http://netzhammer.com/",
+    "icon": "yves.ico",
+    "color": ""
+  },
+  {
+    "url": "http://www.servinglibrary.org",
+    "icon": "serving.gif",
+    "color": ""
+  },
+  {
+    "url": "http://www.dextersinister.org",
+    "icon": "dexter.gif",
+    "color": ""
+  },
+  {
+    "url": "http://dexteredwards.com",
+    "icon": "dexter.png",
+    "color": ""
+  },
+  {
+    "url": "http://www.son-la.co",
+    "icon": "",
+    "color": "black"
+  },
+  {
+    "url": "https://linedandunlined.com",
+    "icon": "",
+    "color": "#FBF74C"
+  },
+  {
+    "url": "http://aimeebender.com",
+    "icon": "",
+    "color": "#1A2229"
+  },
+  {
+    "url": "http://www.humans.jp",
+    "icon": "",
+    "color": "#D68AAF"
+  },
+  {
+    "url": "http://manetas.com/txt/index.html",
+    "icon": "",
+    "color": "#CA4137"
+  },
+  {
+    "url": "http://abake.fr",
+    "icon": "abake.ico",
+    "color": ""
+  },
+  {
+    "url": "https://www.newrafael.com/websites",
+    "icon": "rafael.ico",
+    "color": ""
+  },
+  {
+    "url": "https://www.petracortright.com",
+    "icon": "petra.ico",
+    "color": ""
+  },
+  {
+    "url": "https://www.com-pa-ny.com",
+    "icon": "",
+    "color": "red"
+  },
+  {
+    "url": "http://mikemillsmikemills.com",
+    "icon": "",
+    "color": "#FCF794"
+  },
+  {
+    "url": "http://www.mirandajuly.com",
+    "icon": "",
+    "color": "#E4BDFC"
+  },
+  {
+    "url": "https://tomtrudgeon.com",
+    "icon": "tom.jpeg",
+    "color": ""
+  },
+  {
+    "url": "https://www.ftrain.com",
+    "icon": "paul.ico",
+    "color": ""
+  },
+  {
+    "url": "http://gilgentile.com",
+    "icon": "",
+    "color": "blue"
+  },
+  {
+    "url": "http://www.coryarcangel.com",
+    "icon": "cory.png",
+    "color": ""
+  },
+  {
+    "url": "https://blog.ayjay.org",
+    "icon": "",
+    "color": "#8D8356"
+  },
+  {
+    "url": "http://lauracoombs.com/",
+    "icon": "",
+    "color": "black"
+  },
+  {
+    "url": "http://phrogz.net",
+    "icon": "phrogz.ico",
+    "color": ""
+  },
+  {
+    "url": "http://rosamcelheny.com",
+    "icon": "",
+    "color": "#D999D7"
+  },
+  {
+    "url": "https://tracyma.com",
+    "icon": "",
+    "color": "#C03F40"
+  },
+  {
+    "url": "https://andrefincato.info",
+    "icon": "",
+    "color": "#2F431B"
+  }
+]
