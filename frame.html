@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <title>Laurel's Frame</title>
+    <meta name="viewport" content="width=device-width,initial-scale=1.0" />
+    <link href="css/frame.css" rel="stylesheet" />
+    <link rel="shortcut icon" type="image/png" href="images/laurel.png" />
+  </head>
+
+  <body>
+    <div id="home">
+      <a
+        href="http://laurelschwulst.com/wiki.html"
+        target="viewport"
+        class="laurel"
+      >
+      </a>
+    </div>
+
+    <div id="center">
+      <a href="http://laurelschwulst.com/wiki.html">
+        <div id="center-square"></div>
+      </a>
+    </div>
+
+    <iframe
+      id="portal"
+      src="http://laurelschwulst.com/wiki.html"
+      name="viewport"
+      style="overflow-y: hidden; overflow-x: scroll !important"
+    ></iframe>
+
+    <!--
+
+note to self
+
+could be cool to add...
+
+- category
+- message (via query strings)
+
+to each favicon
+
+-->
+
+    <script src="js/jquery.min.js"></script>
+    <script src="js/frame.js"></script>
+  </body>
+</html>
